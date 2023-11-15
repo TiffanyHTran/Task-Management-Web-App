@@ -25,7 +25,7 @@ This is a simple Task Manager website that allows users to add and manage their 
 
 ## Author
 
-- Your Name
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- Email: your.email@example.com
+- Tiffany Tran, Hailey Verdone
+- GitHub: 
+- Email: tiffytran2000@gmail.com
 
