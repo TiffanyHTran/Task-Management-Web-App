@@ -11,6 +11,7 @@ This is a simple Task Manager website that allows users to add and manage their 
 
 - Add tasks with a description.
 - Delete tasks when they are completed.
+- Edit task 
 - User-friendly interface.
 
 ## Usage
@@ -21,6 +22,11 @@ This is a simple Task Manager website that allows users to add and manage their 
 
 2. **Deleting a Task:**
     - Click the "Delete" button next to the completed task.
+      
+3. **Editing a Task:**
+    - Click on "Edit" button.
+    - Enter the desired information,
+    - Then hit "save"
 
 
 ## Author
