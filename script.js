@@ -9,9 +9,24 @@ function addTask(){
 
     var newTask = document.getElementById("li");
 
-    //newTask.innerHTML = ;
-    
+    //newTask.innerHTML = '';
+
+
     taskList.appendChild(newTask);
     taskInput.value = "";
 }
 
+function deleteTask(button){
+    var taskItem = button.parentNode;
+    taskItem.parentNode.removeChild(taskItem);
+}
+
+function editTask(button){
+    var taskItem = button.parentNode;
+    var taskDescription = taskItem.querySelector('span');
+    var newDescription = prompt("Edit Task", taskDescription.textContent);
+
+    if (newDescription !== null && newDescription.trim() !== "") {
+        taskDescription.textContent = newDescription;
+    }
+}
