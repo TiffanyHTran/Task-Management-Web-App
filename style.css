@@ -33,10 +33,10 @@ img {
  }
  button {
     background-color: black;
-    border: none;
+    border: 1px;
     color: white;
     padding: 16px;
-    margin: 4px 2px;
+    margin: 4px;
     cursor: pointer;
 
  }
