@@ -3,11 +3,7 @@ function addTask() {
     var taskList = document.getElementById("task-list");
 
     if (taskInput.value.trim() === "") {
-<<<<<<< HEAD
-        alert("Please enter task!");
-=======
         alert("Please enter a task!");
->>>>>>> 54ed07788297784c743ae35d036df203d83609a5
         return;
     }
 
