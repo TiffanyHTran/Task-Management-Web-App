@@ -1,9 +1,9 @@
 function addTask(){
     var taskInput = document.getElementById("task-input");
-    var taskList = document.getElementById("tasl-list");
+    var taskList = document.getElementById("task-list");
 
     if (taskInput.value.trim() === "") {
-        alert("Please enter task");
+        alert("Please enter task!");
         return;
     }
 

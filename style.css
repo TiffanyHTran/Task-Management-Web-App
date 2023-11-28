@@ -31,3 +31,21 @@ img {
     background-color: paleturquoise;
     box-shadow: 0 0 10px rgba(0,0 ,0, 0.1);
  }
+ button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+ }
+ input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing: border-box;
+    border: none;
+    background-color: lightgrey;
+    color: black;
+ }
