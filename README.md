@@ -31,7 +31,6 @@ This is a simple Task Manager website that allows users to add and manage their 
 
 ## Author
 
-- Tiffany Tran, Hailey Verdone
-- GitHub: 
+- Tiffany Tran
 - Email: tiffytran2000@gmail.com
 
